@@ -14,5 +14,5 @@
 3. Payment Method
 
 
-[Linkedin Profile](https://linkedin.com/in/yourprofile)
+Check My Linkedin [Linkedin Profile](https://linkedin.com/in/yourprofile)
 
