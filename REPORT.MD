@@ -15,4 +15,6 @@
 
 
 Check My Linkedin [Linkedin Profile](https://linkedin.com/in/yourprofile)
+**View my Linkedin Profile Here** [Linkedin Profile](https://linkedin.com/in/yourprofile)
+
 
