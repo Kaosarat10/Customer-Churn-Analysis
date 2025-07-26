@@ -9,3 +9,8 @@
 - Customer Tenure  
 - Payment Method
 
+1. Churn Rate  
+2. Customer Tenure  
+3. Payment Method
+
+
