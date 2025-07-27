@@ -18,4 +18,6 @@ Check My Linkedin [Linkedin Profile](https://linkedin.com/in/yourprofile)
 
 **View my Linkedin Profile Here** [Linkedin Profile](https://linkedin.com/in/yourprofile)
 
+View my Dasboard[Housing Dashboard](https://github.com/Kaosarat10/Customer-Churn-Analysis/blob/main/Boston%20Housing%201.png)
+
 
